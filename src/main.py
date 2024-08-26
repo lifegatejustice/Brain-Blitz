@@ -3,6 +3,7 @@ import random
 def game_questions_and_answer():
     # List of questions with questions and answers
     return [
+        # EASY
         ("Who is the richest man in the world?", "Elon Musk"),
         ("What is the capital city of France?", "Paris"),
         ("Which country won the FIFA World Cup in 2018?", "France"),
