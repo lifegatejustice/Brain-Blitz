@@ -1,4 +1,16 @@
 import random
+import time
+
+
+print("Welcome to the ⭐Brain Blitz⭐ Game!")
+time.sleep(2)
+print("You will be presented with a series of questions.\n") 
+time.sleep(2)
+print("You must then quickly and correctly under 20 seconds to advance to the next question\n")
+print("After a max attempt of 5 trials it's GAME OVER😝😝😝\n")
+time.sleep(2)
+print('gOODLUCK!')
+
 
 def game_questions_and_answer():
     # List of questions with questions and answers
